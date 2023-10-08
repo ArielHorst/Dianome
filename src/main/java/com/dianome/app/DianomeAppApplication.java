@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DianomeAppApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(DianomeAppApplication.class, args);
 	}
 
